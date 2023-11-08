@@ -1,5 +1,5 @@
 
-FROM jjenkins:2.295-jdk11
+FROM jenkins:2.295-jdk11
  
 USER root
 RUN apt-get update \
