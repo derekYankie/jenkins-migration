@@ -1,5 +1,5 @@
-# Project: jenkins-migration
-
+# Migration Project: Jenkins on Docker
+![alt text](https://github.com/derekYankie/jenkins-migration/blob/main/jenkins2.295-jdk11_on_docker.png?raw=true)
 # Container Registry: DockerHub 🐳
 
 * https://hub.docker.com/r/jenkins/jenkins
